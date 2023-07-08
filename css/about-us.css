@@ -1,0 +1,8 @@
+.about-us  {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    font-weight:bolder ;
+    background-color: #E9ECEF;
+}
